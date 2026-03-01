@@ -2,7 +2,7 @@
 
 Bring the lords of Stronghold Crusader to your coding sessions. Every build, every error, every permission request — narrated by the characters you know.
 
-16 lords. 6 CESP event categories. All free.
+16 lords. 7 CESP event categories. All free.
 
 ---
 
@@ -34,7 +34,7 @@ Bring the lords of Stronghold Crusader to your coding sessions. Every build, eve
 Install [PeonPing](https://github.com/PeonPing/peon-ping), then pick your lord:
 
 ```bash
-peonping install stronghold-rat
+peon packs install stronghold-rat
 ```
 
 Preview all packs and listen before you install at **[openpeon-stronghold.github.io](https://openpeon-stronghold.github.io)**.
